@@ -1,3 +1,16 @@
 <resources>
     <string name="app_name">Module7</string>
+    <string name="header">CS Online Degree Completion BS</string>
+    <string name="cst300">CST 300: Major ProSeminar</string>
+    <string name="cst205">CST 205: Multimedia Design and Programming</string>
+    <string name="cst363">CST 363: Introduction to Database Systems</string>
+    <string name="cst338">CST 338: Software Design</string>
+    <string name="cst311">CST 311: Intro to Computer Networks</string>
+    <string name="cst336">CST 336: Internet Programming</string>
+    <string name="cst361s">CST 361S: Technology Tutors</string>
+    <string name="cst325">CST 325: Graphics Programming</string>
+    <string name="cst370">CST 370: Design and Analyisis of Algorithms</string>
+    <string name="cst438">CST 438 Software Engineering</string>
+    <string name="cst499">CST 499: Directed Group Capstone</string>
+    <string name="btn_submit">Submit</string>
 </resources>
